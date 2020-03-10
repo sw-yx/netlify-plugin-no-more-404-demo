@@ -3,7 +3,9 @@
 Experimenting with the plugin architecture to run Axe checks on Netlify sites
 
 Example site: https://netlify-plugin-no-more-404.netlify.com
-Logs: 
+
+- initial deploy (registers manifest) - [Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e681361c37f1e000e5cdf50) - [Git commit](https://github.com/sw-yx/netlify-plugin-no-more-404-demo/tree/1c648f9354214cabaf230972c10f577686317fb2)
+- 
 
 This demonstrates use of the following Netlify Plugins:
 
