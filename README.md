@@ -4,8 +4,8 @@ A demo for Netlify Plugin No More 404
 
 Example site: https://netlify-plugin-no-more-404-demo.netlify.com
 
-- initial deploy (registers manifest) - [Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e68167afa48da0009fbdf44) - [Git commit](https://github.com/sw-yx/netlify-plugin-no-more-404-demo/commit/e9032ec143b70664ba639e9a73e6a32c3f7aa474)
-- rename deploy (causes a 404) - 
+- initial deploy (registers manifest) - [Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e68209a3554be000cab70c3)
+- rename deploy (causes a 404 because no redirect) - 
 
 This demonstrates use of the following Netlify Plugins:
 
