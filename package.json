@@ -1,0 +1,8 @@
+{
+  "name": "netlify-plugin-no-more-404-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sw-yx/netlify-plugin-no-more-404-demo",
+  "author": "swyx <shawnthe1@gmail.com>",
+  "license": "MIT"
+}
