@@ -6,7 +6,7 @@ Example site: https://netlify-plugin-no-more-404-demo.netlify.com
 
 - initial deploy (registers manifest) - [Successful Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e68209a3554be000cab70c3)
 - rename deploy (causes a 404 because no redirect) - [Failed Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e682110bdaafa000a528406)
-- add a redirect (resolves 404) - [Successful Deploy log]()
+- add a redirect (resolves 404) - [Successful Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e68289d38d5ec000accb7ba)
 
 ![image](https://user-images.githubusercontent.com/6764957/76367978-1c5c0380-6305-11ea-8c75-31a9b1d0bcc5.png)
 
