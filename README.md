@@ -46,4 +46,5 @@ plugins:
 
 ## Known issues
 
+- `netlify api updateSite --data='{ "site_id": "418b94bc-...", "body": { "netlify_build_enabled": true  }}'`
 - tbc
