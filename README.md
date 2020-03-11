@@ -10,6 +10,7 @@ Example site: https://netlify-plugin-no-more-404-demo.netlify.com
   ![image](https://user-images.githubusercontent.com/6764957/76458964-c09b8400-63b1-11ea-8c70-735002614f49.png)
 - add a redirect (resolves 404) - [Successful Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e68289d38d5ec000accb7ba)
 
+
 ![image](https://user-images.githubusercontent.com/6764957/76367978-1c5c0380-6305-11ea-8c75-31a9b1d0bcc5.png)
 
 This demonstrates use of the following Netlify Plugins:
