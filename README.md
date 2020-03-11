@@ -4,8 +4,10 @@ A demo for Netlify Plugin No More 404
 
 Example site: https://netlify-plugin-no-more-404-demo.netlify.com
 
-- initial deploy (registers manifest) - [Successful Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e6941e7fe8240fe05e1b253)
-- rename deploy (causes a 404 because no redirect) - [Failed Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e682110bdaafa000a528406)
+- initial deploy (registers manifest) - [Successful Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e69432692ace90008f1ae07)
+  ![image](https://user-images.githubusercontent.com/6764957/76458851-8fbb4f00-63b1-11ea-927f-e29f99371b9a.png)
+- rename deploy (causes a 404 because no redirect) - [Failed Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e6943a7c771e10009916ed4)
+  ![image](https://user-images.githubusercontent.com/6764957/76458964-c09b8400-63b1-11ea-8c70-735002614f49.png)
 - add a redirect (resolves 404) - [Successful Deploy log](https://app.netlify.com/sites/netlify-plugin-no-more-404-demo/deploys/5e68289d38d5ec000accb7ba)
 
 ![image](https://user-images.githubusercontent.com/6764957/76367978-1c5c0380-6305-11ea-8c75-31a9b1d0bcc5.png)
