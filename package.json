@@ -6,6 +6,6 @@
   "author": "swyx <shawnthe1@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "netlify-plugin-no-more-404": "0.0.10"
+    "netlify-plugin-no-more-404": "0.0.11"
   }
 }
