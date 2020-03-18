@@ -42,7 +42,7 @@ This is how the config is set up.
 
 ```toml
 [[plugins]]
-  package = netlify-plugin-no-more-404
+  package = "netlify-plugin-no-more-404"
     [plugins.inputs]
       on404 = 'error' # either 'warn' or 'error'
       cacheKey = 'anystring' # bump this key any time you need to restart from scratch
