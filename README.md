@@ -40,14 +40,13 @@ netlify-build
 
 This is how the config is set up.
 
-```yaml
-plugins:
-  plugin-nomo404:
-    type: netlify-plugin-no-more-404
-    config:
-      on404: 'error' # either 'warn' or 'error'
-      cacheKey: 'anystring' # bump this key any time you need to restart from scratch
-      # debug: true # for plugin development debugging, dont uncomment unless you're working on the plugin itself
+```toml
+[[plugins]]
+  package = netlify-plugin-no-more-404
+    [plugins.inputs]
+      on404 = 'error' # either 'warn' or 'error'
+      cacheKey = 'anystring' # bump this key any time you need to restart from scratch
+      # debug = true # for plugin development debugging, dont uncomment unless you're working on the plugin itself
 ```
 
 ## Known issues

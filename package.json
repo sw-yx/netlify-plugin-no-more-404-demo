@@ -2,10 +2,21 @@
   "name": "netlify-plugin-no-more-404-demo",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/sw-yx/netlify-plugin-no-more-404-demo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sw-yx/netlify-plugin-no-more-404-demo.git"
+  },
   "author": "swyx <shawnthe1@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "netlify-plugin-no-more-404": "0.0.11"
-  }
+  "devDependencies": {},
+  "description": "A demo for Netlify Plugin No More 404",
+  "bugs": {
+    "url": "https://github.com/sw-yx/netlify-plugin-no-more-404-demo/issues"
+  },
+  "homepage": "https://github.com/sw-yx/netlify-plugin-no-more-404-demo#readme",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
 }

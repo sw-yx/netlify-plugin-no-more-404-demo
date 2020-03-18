@@ -1,0 +1,12 @@
+# https://github.com/philhawksworth/demo-netlify-plugin-fetch-feed/blob/master/netlify.yml
+[build]
+  command = echo "your build command goes here"
+  publish = dist
+
+# Config file `plugins` defines plugins used by build.
+[[plugins]]
+  package = netlify-plugin-no-more-404
+    [plugins.inputs]
+      on404 = 'error' # either 'warn' or 'error'
+      cacheKey = 'anystring' # bump this key any time you need to restart from scratch
+      # debug = true # for plugin development debugging, dont uncomment unless you're working on the plugin itself
