@@ -1,6 +1,6 @@
 # netlify-plugin-no-more-404 Demo
 
-A demo for Netlify Plugin No More 404
+A demo for [Netlify-Plugin-No-More-404](https://github.com/sw-yx/netlify-plugin-no-more-404)
 
 Example site: https://netlify-plugin-no-more-404-demo.netlify.com
 
